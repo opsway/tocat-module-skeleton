@@ -1,0 +1,15 @@
+{
+    "name": "company/module-name",
+    "description": "Module for Tocat Platform",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "zf2",
+        "tocat",
+        "module"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Company\\ModuleName\\": "Company/ModuleName/code/"
+        }
+    }
+}
